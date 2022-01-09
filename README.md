@@ -25,7 +25,11 @@ console.log(password); // => p̋̇a̗̖š̍s͓̝w̌̒o̜̖r̰̒d͇̂
 ## INSTALLATION
 
 `npm i https://github.com/styxpilled/achlys`
+
 OR
+
 `git clone https://github.com/styxpilled/achlys`
+
 `cd achlys`
+
 `npm run build`

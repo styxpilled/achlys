@@ -1,0 +1,18 @@
+{
+  "name": "achlys",
+  "version": "1.0.0",
+  "description": "Zalgo password generator. Because why not.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "install": "npm run build"
+  },
+  "keywords": ["zalgo", "password", "generator"],
+  "author": "styxpilled",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/styxpilled/obnoxious-oracle.git"
+  }
+}
